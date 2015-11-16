@@ -5,3 +5,4 @@ git tracks change of files of file .
 my stupid boss still prefers SVN
 add stupid man 
 stupid man again
+stupid man again again
